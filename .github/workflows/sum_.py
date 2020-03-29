@@ -1,1 +1,1 @@
-def sum_function ():
+def sum_function():
